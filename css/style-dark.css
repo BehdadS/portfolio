@@ -833,6 +833,7 @@ header .header-mobile {
     width: 50%; }
   .about-section .about .about-info ul li {
     line-height: 1em;
+    display: flex;
     margin-bottom: 15px; }
     .about-section .about .about-info ul li span.title {
       font-family: "Playfair Display", serif;
@@ -1408,7 +1409,6 @@ header .header-mobile {
   .about-section .about-info {
     margin-top: 40px; }
     .about-section .about-info ul li {
-      display: inline-block;
       position: relative;
       margin: 0 5px;
       padding: 0 5px; }
